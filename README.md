@@ -20,7 +20,5 @@ To visit the website go to
 
 ## Tech Stack
 
-**Client:** React, Redux, TailwindCSS
 
-**Server:** Node, Express
 
