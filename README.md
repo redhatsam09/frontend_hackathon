@@ -20,5 +20,7 @@ To visit the website go to
 
 ## Tech Stack
 
+**Website:** HTML, CSS, JavaScript, Three.js, Github Pages
 
+**AI Tools(Vibe Coding 😆):** Gemini
 
